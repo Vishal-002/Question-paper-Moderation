@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+.doc{
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
+.navbar {
+  background-color: purple;
+  color: #fff;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold; 
+  margin-left: 70px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex; 
+  
+}
+
+.nav-links li {
+  margin: 0 1rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.content {
+  /* padding: 2rem;  */
+  display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    position:relative;
+    background:rgba(35, 49, 120, 0.65);
+    background:url(./components/assets/images/about/images.jpg)no-repeat;
+    background-size:cover;
+    background-position: center;
+    height:890px;
+}
+.content:before{
+  position:absolute;
+  content: " ";
+  /* top:0;
+  left:0; */
+  background:rgba(160, 167, 204, 0.65);
+  width:100%;
+  height:100%;
+}
+.header-text h2 {
+  padding-top: 200px;
+  color: black;
+  font-size: 44px;
+  font-weight: 500;
+  /* text-transform: uppercase; */
+  line-height: 1.5;
+}
+.header-text h2 span {color: #d92cf9;}
+.header-text a {
+  width: 200px;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 3px;
+  text-transform: capitalize;
+  color: #fff;
+  background: #b636ff;
+  border:1px solid #b636ff;
+  box-shadow: 0 5px 20px rgba(0,0,0,.2);
+  -webkit-transition: 0.3s linear; 
+  -moz-transition: 0.3s linear; 
+  -ms-transition: 0.3s linear; 
+  -o-transition: 0.3s linear; 
+  transition: 0.3s linear;
+}
+/* Add more CSS to style your content as needed. */

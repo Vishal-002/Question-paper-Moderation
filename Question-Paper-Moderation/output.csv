@@ -1,0 +1,518 @@
+Sr. No,Question Paper 1,Question Paper 2,Similarity Score
+1,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,1.000000079
+2,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,"Who composed the famous opera ""The Marriage of Figaro""? Describe the life cycle of a fern. Solve the system of equations: 3y - 2x = 4, 4x + y = Compare and contrast prokaryotic and eukaryotic cells. Explain the laws of thermodynamics.",0.431102882
+3,Who is the author of the novel "Pride and Prejudice"? Describe the steps involved in cellular respiration. Solve the equation: log(x) = Compare and contrast DNA replication and transcription. Define the concept of momentum in physics.,What is the currency of Japan? Explain the structure of a virus. Solve the inequality: 3x + 7 > Compare and contrast renewable and non-renewable energy sources. Define the concept of inertia in classical mechanics.,0.241752649
+4,What is the currency of Japan? Explain the structure of a virus. Solve the inequality: 3x + 7 > Compare and contrast renewable and non-renewable energy sources. Define the concept of inertia in classical mechanics.,Explain the laws of motion according to Newton. Differentiate between a plant cell and an animal cell. Solve the system of linear equations: 3x - y = 5 and 2x + 4y = Discuss the impact of global warming on ecosystems. Define and provide examples of renewable energy sources.,0.349527389
+5,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Examine the societal impact of artificial intelligence (AI) on employment. How can governments
+and businesses adapt to ensure a fair and inclusive future workforce? Discuss the ethical implications of genetic engineering and its potential impact on human
+evolution. Should there be limits on the genetic modification of humans? Analyze the role of social media in shaping public opinion. How can individuals critically evaluate
+information in the age of digital media? Explore the challenges and benefits of the increasing integration of technology in education.
+How can educators ensure that technology enhances rather than hinders the learning
+experience? Evaluate the impact of automation on traditional manufacturing industries. What measures can
+be taken to address the potential job displacement caused by automation? Discuss the role of privacy in the era of big data. How can individuals protect their privacy in a
+world where data is constantly being collected and analyzed? Examine the role of technology in addressing global health challenges. How can advancements in
+technology contribute to improved healthcare accessibility and outcomes? Explore the relationship between technology and environmental sustainability. How can
+technological innovations be harnessed to address environmental issues and promote a
+sustainable future?",0.455038269
+6,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Define and explain the concept of sustainable development. How can communities and
+industries contribute to sustainable practices? Explore the causes and consequences of climate change. Discuss potential strategies to address
+and adapt to these changes. Analyze the importance of water conservation in urban areas. What are the challenges and
+possible solutions for sustainable water management? Discuss the concept of ecological footprint. How can individuals reduce their ecological footprint
+in their daily lives? Examine the role of renewable energy sources in reducing dependence on fossil fuels. What are
+the advantages and challenges associated with widespread adoption?",0.474137972
+7,"Describe the process of cellular respiration and its significance in providing energy for cell
+functions. Compare and contrast it with photosynthesis. Discuss the role of enzymes in biological systems. Provide examples of how enzymes
+contribute to various biochemical reactions within living organisms. Compare mitosis and meiosis in detail, highlighting the key differences and their respective
+contributions to the growth and reproduction of cells. Explain the structure of RNA and its role in protein synthesis. Compare and contrast RNA
+with DNA, emphasizing their similarities and differences. Investigate the impact of genetic engineering on agriculture and medicine. Discuss the
+ethical considerations surrounding the manipulation of genetic material.","Explore the concept of homeostasis in living organisms. Provide examples of how
+different organ systems work together to maintain internal balance. Analyze the process of evolution by natural selection. Discuss the evidence
+supporting the theory of evolution and its implications for the diversity of life. Compare and contrast prokaryotic and eukaryotic cells. Highlight the structural and
+functional differences between these two fundamental cell types. Discuss the principles of ecology, emphasizing the levels of organization within
+ecosystems. Explore the interdependence of living organisms and their
+environments. Examine the role of hormones in the regulation of physiological processes. Provide
+examples of hormones and their effects on target cells and organs.",0.57774055
+8,"Define and discuss the concept of sustainable development. How can communities and
+industries work together to promote sustainable practices? Explore the causes and consequences of climate change. How do changes in temperature
+and precipitation patterns impact ecosystems and human societies? Analyze the importance of water conservation in both rural and urban settings. Discuss the
+challenges faced by communities in maintaining sustainable water resources. Examine the role of biodiversity in supporting healthy ecosystems. How can human activities
+both positively and negatively affect biodiversity? Discuss the concept of ecological footprint. How can individuals and businesses reduce their
+ecological footprint, and why is this important for the environment?","Explain the principles behind sustainable development and provide examples of successful
+sustainable projects. How can these principles be applied on a global scale? Investigate the causes and effects of climate change on different ecosystems. How can
+mitigation and adaptation strategies be implemented to address these issues? Assess the challenges of water scarcity in various regions. What are the potential solutions
+for ensuring access to clean and sustainable water sources? Explore the relationship between biodiversity and ecosystem services. How can conservation
+efforts contribute to maintaining essential ecological functions? Evaluate the effectiveness of different renewable energy sources in reducing carbon
+emissions. What policies and initiatives can promote the transition to a more sustainable
+energy future?",0.785236021
+9,"Explain the process of photosynthesis in plants. How does it contribute to the overall energy
+cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes and
+their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in the
+life cycle of organisms. Describe the structure and function of DNA. How does genetic information get transmitted
+from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Elaborate on the mechanism of photosynthesis in plants. How does this process play a crucial
+role in maintaining ecological balance? Explore the functions of enzymes in cellular activities. Provide specific examples and
+elucidate their significance in biological systems. Compare and discuss the phases of mitosis and meiosis. Explain their respective roles in the
+reproduction and development of organisms. Examine the molecular structure of DNA and its functions. How does the replication of DNA
+ensure the continuity of genetic information across generations? Evaluate the anthropogenic impact on biodiversity. Offer examples and propose effective
+strategies for the conservation of biological diversity.",0.86558646
+10,"Describe the process of cellular respiration and its significance in energy production.
+Provide examples of organisms that undergo aerobic and anaerobic respiration. Discuss the role of hormones in the human body. Highlight the endocrine system's
+functions and how it regulates various physiological processes. Compare and contrast prokaryotic and eukaryotic cells. Explain the significance of cell
+organelles in the overall functioning of cells. Investigate the concept of natural selection and its role in the evolution of species.
+Provide examples and discuss the importance of adaptation in survival. Analyze the structure and function of the human nervous system. How do neurons
+transmit signals, and what is the role of neurotransmitters?","Explore the process of protein synthesis in cells. Discuss the role of DNA, RNA, and ribosomes in
+the synthesis of proteins. Examine the concept of homeostasis in living organisms. Provide examples of physiological
+processes that contribute to maintaining internal balance. Compare and contrast plant and animal cells. Highlight the unique features of each cell type and
+their contributions to the respective organisms. Investigate the impact of genetic mutations on the phenotype of organisms. Discuss the types of
+mutations and their consequences. Discuss the principles of ecology and the levels of ecological organization. How do ecosystems
+function, and what are the factors influencing population dynamics?",0.608125428
+11,"Define and discuss the principles of sustainable development. How can industries play a role
+in achieving sustainability? Explore the causes and effects of climate change on ecosystems. Propose strategies for both
+mitigation and adaptation to climate change. Investigate the importance of water conservation in both urban and rural settings. Highlight
+challenges and suggest sustainable water management solutions. Analyze the concept of ecological footprint and its implications. How can individuals and
+communities reduce their ecological footprint for a more sustainable future? Examine the role of renewable energy sources in the context of reducing reliance on fossil
+fuels. Discuss the advantages and challenges associated with the widespread adoption of
+renewable energy.","Define sustainable development and elaborate on its key principles. How can businesses
+contribute to sustainable practices? Examine the causes and consequences of climate change, emphasizing its impact on
+biodiversity. Propose measures for both mitigating and adapting to climate change. Evaluate the significance of water conservation in both urban and rural environments.
+Identify challenges and recommend sustainable water management strategies. Discuss the concept of ecological footprint, emphasizing its relevance to individual and
+community actions. How can people minimize their ecological footprint? Investigate the potential of renewable energy sources in reducing the dependence on fossil
+fuels. Analyze the advantages and obstacles associated with the widespread adoption of
+renewable energy.",0.885327021
+12,"Describe the process of cellular respiration and its significance in energy production.
+Provide examples of organisms that undergo aerobic and anaerobic respiration. Discuss the role of hormones in the human body. Highlight the endocrine system's
+functions and how it regulates various physiological processes. Compare and contrast prokaryotic and eukaryotic cells. Explain the significance of cell
+organelles in the overall functioning of cells. Investigate the concept of natural selection and its role in the evolution of species.
+Provide examples and discuss the importance of adaptation in survival. Analyze the structure and function of the human nervous system. How do neurons
+transmit signals, and what is the role of neurotransmitters?","Define and discuss the principles of sustainable development. How can industries play a role
+in achieving sustainability? Explore the causes and effects of climate change on ecosystems. Propose strategies for both
+mitigation and adaptation to climate change. Investigate the importance of water conservation in both urban and rural settings. Highlight
+challenges and suggest sustainable water management solutions. Analyze the concept of ecological footprint and its implications. How can individuals and
+communities reduce their ecological footprint for a more sustainable future? Examine the role of renewable energy sources in the context of reducing reliance on fossil
+fuels. Discuss the advantages and challenges associated with the widespread adoption of
+renewable energy.",0.311572954
+13,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,Who is the author of the novel "Pride and Prejudice"? Describe the steps involved in cellular respiration. Solve the equation: log(x) = Compare and contrast DNA replication and transcription. Define the concept of momentum in physics.,0.354125728
+14,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,What is the currency of Japan? Explain the structure of a virus. Solve the inequality: 3x + 7 > Compare and contrast renewable and non-renewable energy sources. Define the concept of inertia in classical mechanics.,0.313481688
+15,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,What is the currency of Japan? Explain the structure of a virus. Solve the inequality: 3x + 7 > Compare and contrast renewable and non-renewable energy sources. Define the concept of inertia in classical mechanics.,0.313481688
+16,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,What is the currency of Japan? Explain the structure of a virus. Solve the inequality: 3x + 7 > Compare and contrast renewable and non-renewable energy sources. Define the concept of inertia in classical mechanics.,0.313481688
+17,Who is the author of the novel "Pride and Prejudice"? Describe the steps involved in cellular respiration. Solve the equation: log(x) = Compare and contrast DNA replication and transcription. Define the concept of momentum in physics.,What is the currency of Japan? Explain the structure of a virus. Solve the inequality: 3x + 7 > Compare and contrast renewable and non-renewable energy sources. Define the concept of inertia in classical mechanics.,0.241752649
+18,Who is the author of the novel "Pride and Prejudice"? Describe the steps involved in cellular respiration. Solve the equation: log(x) = Compare and contrast DNA replication and transcription. Define the concept of momentum in physics.,Explain the laws of motion according to Newton. Differentiate between a plant cell and an animal cell. Solve the system of linear equations: 3x - y = 5 and 2x + 4y = Discuss the impact of global warming on ecosystems. Define and provide examples of renewable energy sources.,0.324448327
+19,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,Explain the laws of motion according to Newton. Differentiate between a plant cell and an animal cell. Solve the system of linear equations: 3x - y = 5 and 2x + 4y = Discuss the impact of global warming on ecosystems. Define and provide examples of renewable energy sources.,0.399597158
+20,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges",1.000000119
+21,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Define and explain the concept of sustainable development. How can communities and
+industries contribute to sustainable practices? Explore the causes and consequences of climate change. Discuss potential strategies to address
+and adapt to these changes. Analyze the importance of water conservation in urban areas. What are the challenges and
+possible solutions for sustainable water management? Discuss the concept of ecological footprint. How can individuals reduce their ecological footprint
+in their daily lives? Examine the role of renewable energy sources in reducing dependence on fossil fuels. What are
+the advantages and challenges associated with widespread adoption?",0.740388711
+22,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Define and explain the concept of sustainable development. How can communities and
+industries contribute to sustainable practices? Explore the causes and consequences of climate change. Discuss potential strategies to address
+and adapt to these changes. Analyze the importance of water conservation in urban areas. What are the challenges and
+possible solutions for sustainable water management? Discuss the concept of ecological footprint. How can individuals reduce their ecological footprint
+in their daily lives? Examine the role of renewable energy sources in reducing dependence on fossil fuels. What are
+the advantages and challenges associated with widespread adoption?",0.740388711
+23,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Describe the process of cellular respiration and its significance in providing energy for cell
+functions. Compare and contrast it with photosynthesis. Discuss the role of enzymes in biological systems. Provide examples of how enzymes
+contribute to various biochemical reactions within living organisms. Compare mitosis and meiosis in detail, highlighting the key differences and their respective
+contributions to the growth and reproduction of cells. Explain the structure of RNA and its role in protein synthesis. Compare and contrast RNA
+with DNA, emphasizing their similarities and differences. Investigate the impact of genetic engineering on agriculture and medicine. Discuss the
+ethical considerations surrounding the manipulation of genetic material.",0.378615667
+24,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Explore the concept of homeostasis in living organisms. Provide examples of how
+different organ systems work together to maintain internal balance. Analyze the process of evolution by natural selection. Discuss the evidence
+supporting the theory of evolution and its implications for the diversity of life. Compare and contrast prokaryotic and eukaryotic cells. Highlight the structural and
+functional differences between these two fundamental cell types. Discuss the principles of ecology, emphasizing the levels of organization within
+ecosystems. Explore the interdependence of living organisms and their
+environments. Examine the role of hormones in the regulation of physiological processes. Provide
+examples of hormones and their effects on target cells and organs.",0.401774963
+25,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Explore the concept of homeostasis in living organisms. Provide examples of how
+different organ systems work together to maintain internal balance. Analyze the process of evolution by natural selection. Discuss the evidence
+supporting the theory of evolution and its implications for the diversity of life. Compare and contrast prokaryotic and eukaryotic cells. Highlight the structural and
+functional differences between these two fundamental cell types. Discuss the principles of ecology, emphasizing the levels of organization within
+ecosystems. Explore the interdependence of living organisms and their
+environments. Examine the role of hormones in the regulation of physiological processes. Provide
+examples of hormones and their effects on target cells and organs.",0.401774963
+26,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Explore the concept of homeostasis in living organisms. Provide examples of how
+different organ systems work together to maintain internal balance. Analyze the process of evolution by natural selection. Discuss the evidence
+supporting the theory of evolution and its implications for the diversity of life. Compare and contrast prokaryotic and eukaryotic cells. Highlight the structural and
+functional differences between these two fundamental cell types. Discuss the principles of ecology, emphasizing the levels of organization within
+ecosystems. Explore the interdependence of living organisms and their
+environments. Examine the role of hormones in the regulation of physiological processes. Provide
+examples of hormones and their effects on target cells and organs.",0.401774963
+27,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Define and discuss the concept of sustainable development. How can communities and
+industries work together to promote sustainable practices? Explore the causes and consequences of climate change. How do changes in temperature
+and precipitation patterns impact ecosystems and human societies? Analyze the importance of water conservation in both rural and urban settings. Discuss the
+challenges faced by communities in maintaining sustainable water resources. Examine the role of biodiversity in supporting healthy ecosystems. How can human activities
+both positively and negatively affect biodiversity? Discuss the concept of ecological footprint. How can individuals and businesses reduce their
+ecological footprint, and why is this important for the environment?",0.752744893
+28,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Explain the principles behind sustainable development and provide examples of successful
+sustainable projects. How can these principles be applied on a global scale? Investigate the causes and effects of climate change on different ecosystems. How can
+mitigation and adaptation strategies be implemented to address these issues? Assess the challenges of water scarcity in various regions. What are the potential solutions
+for ensuring access to clean and sustainable water sources? Explore the relationship between biodiversity and ecosystem services. How can conservation
+efforts contribute to maintaining essential ecological functions? Evaluate the effectiveness of different renewable energy sources in reducing carbon
+emissions. What policies and initiatives can promote the transition to a more sustainable
+energy future?",0.761018097
+29,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Explain the process of photosynthesis in plants. How does it contribute to the overall energy
+cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes and
+their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in the
+life cycle of organisms. Describe the structure and function of DNA. How does genetic information get transmitted
+from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.",0.467056781
+30,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Elaborate on the mechanism of photosynthesis in plants. How does this process play a crucial
+role in maintaining ecological balance? Explore the functions of enzymes in cellular activities. Provide specific examples and
+elucidate their significance in biological systems. Compare and discuss the phases of mitosis and meiosis. Explain their respective roles in the
+reproduction and development of organisms. Examine the molecular structure of DNA and its functions. How does the replication of DNA
+ensure the continuity of genetic information across generations? Evaluate the anthropogenic impact on biodiversity. Offer examples and propose effective
+strategies for the conservation of biological diversity.",0.488233487
+31,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Describe the process of cellular respiration and its significance in energy production.
+Provide examples of organisms that undergo aerobic and anaerobic respiration. Discuss the role of hormones in the human body. Highlight the endocrine system's
+functions and how it regulates various physiological processes. Compare and contrast prokaryotic and eukaryotic cells. Explain the significance of cell
+organelles in the overall functioning of cells. Investigate the concept of natural selection and its role in the evolution of species.
+Provide examples and discuss the importance of adaptation in survival. Analyze the structure and function of the human nervous system. How do neurons
+transmit signals, and what is the role of neurotransmitters?",0.353474975
+32,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Explore the process of protein synthesis in cells. Discuss the role of DNA, RNA, and ribosomes in
+the synthesis of proteins. Examine the concept of homeostasis in living organisms. Provide examples of physiological
+processes that contribute to maintaining internal balance. Compare and contrast plant and animal cells. Highlight the unique features of each cell type and
+their contributions to the respective organisms. Investigate the impact of genetic mutations on the phenotype of organisms. Discuss the types of
+mutations and their consequences. Discuss the principles of ecology and the levels of ecological organization. How do ecosystems
+function, and what are the factors influencing population dynamics?",0.421262701
+33,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Define and discuss the principles of sustainable development. How can industries play a role
+in achieving sustainability? Explore the causes and effects of climate change on ecosystems. Propose strategies for both
+mitigation and adaptation to climate change. Investigate the importance of water conservation in both urban and rural settings. Highlight
+challenges and suggest sustainable water management solutions. Analyze the concept of ecological footprint and its implications. How can individuals and
+communities reduce their ecological footprint for a more sustainable future? Examine the role of renewable energy sources in the context of reducing reliance on fossil
+fuels. Discuss the advantages and challenges associated with the widespread adoption of
+renewable energy.",0.758921742
+34,"Discuss the impact of deforestation on biodiversity and propose measures to mitigate its
+consequences. Analyze the role of renewable energy sources in reducing carbon emissions. Provide
+examples of successful renewable energy projects. Compare and contrast the advantages and disadvantages of organic farming versus
+conventional farming methods. Examine the effects of climate change on global water resources. Suggest strategies for water
+conservation in the face of changing environmental conditions. Evaluate the importance of urban planning in creating sustainable cities. Provide examples of
+cities that have successfully implemented eco-friendly urban development. Discuss the ethical considerations surrounding wildlife conservation efforts. How can society
+strike a balance between human needs and the preservation of endangered species? Explore the concept of ""green architecture"" and its potential impact on sustainable living.
+Provide examples of environmentally friendly architectural designs. Investigate the role of government policies in promoting environmental sustainability. Assess
+the effectiveness of current policies in addressing environmental challenges","Define sustainable development and elaborate on its key principles. How can businesses
+contribute to sustainable practices? Examine the causes and consequences of climate change, emphasizing its impact on
+biodiversity. Propose measures for both mitigating and adapting to climate change. Evaluate the significance of water conservation in both urban and rural environments.
+Identify challenges and recommend sustainable water management strategies. Discuss the concept of ecological footprint, emphasizing its relevance to individual and
+community actions. How can people minimize their ecological footprint? Investigate the potential of renewable energy sources in reducing the dependence on fossil
+fuels. Analyze the advantages and obstacles associated with the widespread adoption of
+renewable energy.",0.77216206
+35,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Examine the societal impact of artificial intelligence (AI) on employment. How can governments
+and businesses adapt to ensure a fair and inclusive future workforce? Discuss the ethical implications of genetic engineering and its potential impact on human
+evolution. Should there be limits on the genetic modification of humans? Analyze the role of social media in shaping public opinion. How can individuals critically evaluate
+information in the age of digital media? Explore the challenges and benefits of the increasing integration of technology in education.
+How can educators ensure that technology enhances rather than hinders the learning
+experience? Evaluate the impact of automation on traditional manufacturing industries. What measures can
+be taken to address the potential job displacement caused by automation? Discuss the role of privacy in the era of big data. How can individuals protect their privacy in a
+world where data is constantly being collected and analyzed? Examine the role of technology in addressing global health challenges. How can advancements in
+technology contribute to improved healthcare accessibility and outcomes? Explore the relationship between technology and environmental sustainability. How can
+technological innovations be harnessed to address environmental issues and promote a
+sustainable future?",0.345521033
+36,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Define and explain the concept of sustainable development. How can communities and
+industries contribute to sustainable practices? Explore the causes and consequences of climate change. Discuss potential strategies to address
+and adapt to these changes. Analyze the importance of water conservation in urban areas. What are the challenges and
+possible solutions for sustainable water management? Discuss the concept of ecological footprint. How can individuals reduce their ecological footprint
+in their daily lives? Examine the role of renewable energy sources in reducing dependence on fossil fuels. What are
+the advantages and challenges associated with widespread adoption?",0.474137972
+37,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Describe the process of cellular respiration and its significance in providing energy for cell
+functions. Compare and contrast it with photosynthesis. Discuss the role of enzymes in biological systems. Provide examples of how enzymes
+contribute to various biochemical reactions within living organisms. Compare mitosis and meiosis in detail, highlighting the key differences and their respective
+contributions to the growth and reproduction of cells. Explain the structure of RNA and its role in protein synthesis. Compare and contrast RNA
+with DNA, emphasizing their similarities and differences. Investigate the impact of genetic engineering on agriculture and medicine. Discuss the
+ethical considerations surrounding the manipulation of genetic material.",0.707488
+38,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Explore the concept of homeostasis in living organisms. Provide examples of how
+different organ systems work together to maintain internal balance. Analyze the process of evolution by natural selection. Discuss the evidence
+supporting the theory of evolution and its implications for the diversity of life. Compare and contrast prokaryotic and eukaryotic cells. Highlight the structural and
+functional differences between these two fundamental cell types. Discuss the principles of ecology, emphasizing the levels of organization within
+ecosystems. Explore the interdependence of living organisms and their
+environments. Examine the role of hormones in the regulation of physiological processes. Provide
+examples of hormones and their effects on target cells and organs.",0.522709568
+39,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Define and discuss the concept of sustainable development. How can communities and
+industries work together to promote sustainable practices? Explore the causes and consequences of climate change. How do changes in temperature
+and precipitation patterns impact ecosystems and human societies? Analyze the importance of water conservation in both rural and urban settings. Discuss the
+challenges faced by communities in maintaining sustainable water resources. Examine the role of biodiversity in supporting healthy ecosystems. How can human activities
+both positively and negatively affect biodiversity? Discuss the concept of ecological footprint. How can individuals and businesses reduce their
+ecological footprint, and why is this important for the environment?",0.476462414
+40,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Explain the principles behind sustainable development and provide examples of successful
+sustainable projects. How can these principles be applied on a global scale? Investigate the causes and effects of climate change on different ecosystems. How can
+mitigation and adaptation strategies be implemented to address these issues? Assess the challenges of water scarcity in various regions. What are the potential solutions
+for ensuring access to clean and sustainable water sources? Explore the relationship between biodiversity and ecosystem services. How can conservation
+efforts contribute to maintaining essential ecological functions? Evaluate the effectiveness of different renewable energy sources in reducing carbon
+emissions. What policies and initiatives can promote the transition to a more sustainable
+energy future?",0.507244905
+41,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Explain the process of photosynthesis in plants. How does it contribute to the overall energy
+cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes and
+their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in the
+life cycle of organisms. Describe the structure and function of DNA. How does genetic information get transmitted
+from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.",1.00000004
+42,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Elaborate on the mechanism of photosynthesis in plants. How does this process play a crucial
+role in maintaining ecological balance? Explore the functions of enzymes in cellular activities. Provide specific examples and
+elucidate their significance in biological systems. Compare and discuss the phases of mitosis and meiosis. Explain their respective roles in the
+reproduction and development of organisms. Examine the molecular structure of DNA and its functions. How does the replication of DNA
+ensure the continuity of genetic information across generations? Evaluate the anthropogenic impact on biodiversity. Offer examples and propose effective
+strategies for the conservation of biological diversity.",0.86558646
+43,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Elaborate on the mechanism of photosynthesis in plants. How does this process play a crucial
+role in maintaining ecological balance? Explore the functions of enzymes in cellular activities. Provide specific examples and
+elucidate their significance in biological systems. Compare and discuss the phases of mitosis and meiosis. Explain their respective roles in the
+reproduction and development of organisms. Examine the molecular structure of DNA and its functions. How does the replication of DNA
+ensure the continuity of genetic information across generations? Evaluate the anthropogenic impact on biodiversity. Offer examples and propose effective
+strategies for the conservation of biological diversity.",0.86558646
+44,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Describe the process of cellular respiration and its significance in energy production.
+Provide examples of organisms that undergo aerobic and anaerobic respiration. Discuss the role of hormones in the human body. Highlight the endocrine system's
+functions and how it regulates various physiological processes. Compare and contrast prokaryotic and eukaryotic cells. Explain the significance of cell
+organelles in the overall functioning of cells. Investigate the concept of natural selection and its role in the evolution of species.
+Provide examples and discuss the importance of adaptation in survival. Analyze the structure and function of the human nervous system. How do neurons
+transmit signals, and what is the role of neurotransmitters?",0.619103114
+45,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Explore the process of protein synthesis in cells. Discuss the role of DNA, RNA, and ribosomes in
+the synthesis of proteins. Examine the concept of homeostasis in living organisms. Provide examples of physiological
+processes that contribute to maintaining internal balance. Compare and contrast plant and animal cells. Highlight the unique features of each cell type and
+their contributions to the respective organisms. Investigate the impact of genetic mutations on the phenotype of organisms. Discuss the types of
+mutations and their consequences. Discuss the principles of ecology and the levels of ecological organization. How do ecosystems
+function, and what are the factors influencing population dynamics?",0.647899429
+46,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Define and discuss the principles of sustainable development. How can industries play a role
+in achieving sustainability? Explore the causes and effects of climate change on ecosystems. Propose strategies for both
+mitigation and adaptation to climate change. Investigate the importance of water conservation in both urban and rural settings. Highlight
+challenges and suggest sustainable water management solutions. Analyze the concept of ecological footprint and its implications. How can individuals and
+communities reduce their ecological footprint for a more sustainable future? Examine the role of renewable energy sources in the context of reducing reliance on fossil
+fuels. Discuss the advantages and challenges associated with the widespread adoption of
+renewable energy.",0.405345917
+47,"Explain the process of photosynthesis in plants. How does it contribute to the overall
+energy cycle in ecosystems? Discuss the role of enzymes in cellular processes. Provide examples of specific enzymes
+and their functions. Compare and contrast mitosis and meiosis. Highlight the significance of each process in
+the life cycle of organisms. Describe the structure and function of DNA. How does genetic information get
+transmitted from one generation to the next? Investigate the impact of human activities on biodiversity. Provide examples and suggest
+measures to mitigate the negative effects.","Define sustainable development and elaborate on its key principles. How can businesses
+contribute to sustainable practices? Examine the causes and consequences of climate change, emphasizing its impact on
+biodiversity. Propose measures for both mitigating and adapting to climate change. Evaluate the significance of water conservation in both urban and rural environments.
+Identify challenges and recommend sustainable water management strategies. Discuss the concept of ecological footprint, emphasizing its relevance to individual and
+community actions. How can people minimize their ecological footprint? Investigate the potential of renewable energy sources in reducing the dependence on fossil
+fuels. Analyze the advantages and obstacles associated with the widespread adoption of
+renewable energy.",0.404879798
+48,,,
+49,,,
+50,,,
+51,,,
+52,,,
+53,,,
+54,,,
+55,,,
+56,,,
+57,,,
+58,,,
+59,,,
+60,,,
+61,,,
+62,,,
+63,,,
+64,,,
+65,,,
+66,,,
+67,,,
+68,,,
+69,,,
+70,,,
+71,,,
+72,,,
+73,,,
+74,,,
+75,,,
+76,,,
+77,,,
+78,,, 
+79,,,
+80,,,
+1,What is the capital of France? Explain the process of photosynthesis. Solve the quadratic equation: 2x^2 + 5x - 3 = Compare and contrast mitosis and meiosis. Define the concept of entropy in thermodynamics.,"Who is the author of the novel ""Pride and Prejudice""? Describe the steps involved in cellular respiration. Solve the equation: log(x) = Compare and contrast DNA replication and transcription. Define the concept of momentum in physics.",0.3541257282098134

@@ -1,0 +1,4 @@
+{
+  "message": "Error processing PDFs: 400 Bad Request: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.",
+  "success": false
+}
